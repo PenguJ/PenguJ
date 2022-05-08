@@ -1,4 +1,7 @@
-### Hi there 👋
+# Welcome to my page.
+## I'm Korean, and I'm a Beginner who just started studying coding
+## The goal of using GitHub is to record and share my study materials and courses.
+### Have a nice day! 😁
 
 <!--
 **PenguJ/PenguJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
